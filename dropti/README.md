@@ -1,4 +1,4 @@
-# drOPit
+# drOPti
 
 Application pour automobilistes : où déposer un ami (en faisant un détour borné) pour qu'il rentre
 plus vite chez lui, alors que le conducteur rentre directement chez lui.
